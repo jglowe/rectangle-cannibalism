@@ -1,0 +1,9 @@
+[package]
+name = "rectangle-canibalism"
+version = "0.1.0"
+authors = ["Jonathan Lowe <me@jonathanlowe.dev>"]
+edition = "2018"
+
+[dependencies]
+piston_window = "0.117.0"
+
